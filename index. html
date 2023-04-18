@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Moda Fashion</title>
+</head>
+<body>
+    <header class="header">
+        <img src="logo.png" alt="" class="logo">
+        <nav>
+            <ul class="menu">
+                <li><a href="https://www.google.com">Sobre</a></li>
+                <li><a href="">Produtos</a></li>
+                <li><a href="">Contatos</a></li>
+            </ul>
+        </nav>
+    </header>
+
+</html>
+<section class="flex">
+<div class="item"> 
+    <p>jaqueta</p>
+    <img src="jaqueta.png" class="imagem">
+
+ 
+</div>
+
+<div>
+    <p>jaqueta de couro usada apenas uma vez por apenas 170,00.</p>
+</div>
+
+<div class="item">
+    <img src="shorts.png" class="imagem"> 
+    <p>Shorts</p>
+    <p>shorts de linho novo por apenas 60,00.</p>
+</div>
+<div class="item">
+    <img src="vestido.png" class="imagem"> 
+    <p>Vestido</p>
+    <p>vestido de seda na cor vermelha por apenas 79,99.</p>
+</div>
+</section>
