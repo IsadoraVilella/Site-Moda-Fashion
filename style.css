@@ -55,17 +55,17 @@ a{
     display: flex;
     flex-direction: column;
 }
-/Ajustando o tamanho da imagem/
+
 .imagem{
     width: 400px;
     height: auto;
 }
-/Ajustando os ítens da página/
+
 
 .item{
     display: flex;
     /* justify-content: flex-end;*/
-    /center, flex-end - podem ser usados */
+    /*center, flex-end - podem ser usados */
     align-items: flex-start;
     border: 2px solid black;
     margin: 10px;
